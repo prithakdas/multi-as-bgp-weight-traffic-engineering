@@ -96,7 +96,7 @@ multi-as-bgp-weight-traffic-engineering
   ├── MultiAS_BGP_Lab_GNS3/
       ├── MultiAS_BGP_Weight_Traffic_Engineering.gns3
       └── project-files/
-  ├── topology.png
+  ├── Topology.png
   ├── BGP_MultiAS_Routing_Traffic_Engineering.pdf
   └── README.md
 ```
